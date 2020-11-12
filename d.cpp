@@ -19,3 +19,16 @@ void print(int **a, int r, int c) {
 		cout << "\n";
 	}
 }
+
+int main() {
+	cout << "Enter your rows and columns: ";
+	int r, c;
+	cin >> r >> c;
+	int **a;
+	a = new int*[5];
+	for(int i=0; i<r; ++i)
+		a[i] = new int[c];
+	read(a, r, c);
+	cout << "Two dimensional board: \n";
+	print(a, r, c);
+}
