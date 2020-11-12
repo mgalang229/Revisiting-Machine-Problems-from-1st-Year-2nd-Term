@@ -7,5 +7,5 @@ D - Quarantine Assignment: Multidimensional Array using Pointers
 E - Quarantine Assignment: Pointer Functions  
 F - Quarantine Assignment: Fibonacci Custom Input  
 ## Note
-Created: November 12, 2020
+Created: November 12, 2020  
 Reason: No electricity(Typhoon Ulysses)
